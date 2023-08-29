@@ -1,0 +1,10 @@
+Package: dose3d-webinterface
+Version: 0.1
+Architecture: all
+Maintainer: Michal Niedzwiecki
+Filename: ./g4rt_webinterface_0.0.1_amd64.deb
+Size: 15665306
+MD5sum: 1ca33d7b3d9fab6e8a570b5388b20f6b
+SHA1: 1ccb1098539e47864ddf677c7edc2878d9c599e0
+SHA256: 3373b52795dd2779719a5810b5571382042f126fcdb275ad5d4cf90e90ba3acf
+Description: Webinterface for Dose3D

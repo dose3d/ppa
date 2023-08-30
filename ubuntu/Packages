@@ -23,3 +23,17 @@ Section: devel
 Priority: optional
 Description: G4rt built using CMake
 
+Package: g4rt
+Version: 0.0.2
+Architecture: amd64
+Maintainer: madej
+Installed-Size: 67968
+Filename: ./g4rt_0.0.2_amd64.deb
+Size: 5427216
+MD5sum: 541f0a1cbdd812046fddafe2815cf7b1
+SHA1: 5c29d9ae07c84b30013dd0f2cfe3c5ae8d488148
+SHA256: d96f40877cbe216c133938f81161b130abedfd95eda86966d06c8a90d3debe18
+Section: devel
+Priority: optional
+Description: G4rt built using CMake
+

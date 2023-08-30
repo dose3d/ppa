@@ -1,0 +1,25 @@
+Package: dose3d-webinterface
+Version: 0.1
+Architecture: all
+Maintainer: Michal Niedzwiecki
+Filename: ./g4rt_webinterface_0.0.1_amd64.deb
+Size: 15665306
+MD5sum: 1ca33d7b3d9fab6e8a570b5388b20f6b
+SHA1: 1ccb1098539e47864ddf677c7edc2878d9c599e0
+SHA256: 3373b52795dd2779719a5810b5571382042f126fcdb275ad5d4cf90e90ba3acf
+Description: Webinterface for Dose3D
+
+Package: g4rt
+Version: 0.0.1
+Architecture: amd64
+Maintainer: madej
+Installed-Size: 67968
+Filename: ./g4rt_0.0.1_amd64.deb
+Size: 5427328
+MD5sum: 699bb53641a90e2da4996b03d5bb4ba1
+SHA1: 46533a33e7422bdf3e720592c4a2d5876a3e8615
+SHA256: 80ca5aae5ba1907ef805ba22cadace2f6004a3f6b4bc57ffc1d59b5bdd6f8aa3
+Section: devel
+Priority: optional
+Description: G4rt built using CMake
+

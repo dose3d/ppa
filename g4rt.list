@@ -1,2 +1,2 @@
-deb [signed-by=/etc/apt/trusted.gpg.d/dose3d.gpg] https://dose3d.github.io/ppa/ubuntu ./
+deb [signed-by=/etc/apt/trusted.gpg.d/g4rt.gpg] https://dose3d.github.io/ppa/ubuntu ./
 

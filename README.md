@@ -45,4 +45,4 @@ Note: Once the packages are already installed, above command will try to update 
 The PPA packages are being created on top of the:
 * PyDose3D package: [pydose3d](https://git.plgrid.pl/projects/TND3D/repos/pydose3d/browse) (TODO: Update the LINK!)
 * G4RT app: [g4rt](https://git.plgrid.pl/projects/TND3D/repos/dose3d-geant4-linac/browse?at=TNSIM-260-init-final-app-logger) (TODO: Update the name and the LINK!) 
-* G4RT webui [g4rt-ui](https://git.plgrid.pl/projects/TND3D/repos/webinterface/browse) (TODO: Update the LINK!)
+* G4RT webui [g4rt-webui](https://git.plgrid.pl/projects/TND3D/repos/webinterface/browse) (TODO: Update the LINK!)

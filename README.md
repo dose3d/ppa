@@ -39,7 +39,7 @@ Note: Once the packages are already installed, above command will try to update 
 
 
 ### Authors:
-`Michał Niedźwiecki`, `Paweł Madejski`, `Jakub Hajduga`, `Bartłomiej Rachwał`
+`Michał Niedźwiecki`, `Paweł Matejski`, `Jakub Hajduga`, `Bartłomiej Rachwał`
 
 ### Source code
 The PPA packages are being created on top of the:

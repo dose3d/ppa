@@ -1,0 +1,2 @@
+deb [signed-by=/etc/apt/trusted.gpg.d/g4rt_test.gpg] https://dose3d.github.io/ppa/test/ubuntu ./
+

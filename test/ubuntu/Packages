@@ -30,11 +30,11 @@ Package: g4rt-webui
 Version: 0.0.2
 Architecture: all
 Maintainer: Michal Niedzwiecki
-Depends: g4rt, postgresql
+Depends: g4rt, postgresql, libpq-dev
 Filename: ./g4rt-webui_0.0.2.deb
-Size: 15665164
-MD5sum: 2233f551d69a13b15e3981828ed55e3c
-SHA1: 168839716110b5aa9a2dd4a78da384243870c47a
-SHA256: 47bd08b12fab01c38af350b8a43d1048d84038d785a3fc6c4c3f43e06cbc67fd
+Size: 15665198
+MD5sum: d2f4d4c022c60b85c3d932e15e072f14
+SHA1: 225bbc60e54a35508152dad52c9a592c98176af4
+SHA256: e38b5bcd037b324b869e49eed23f008c17070d1e3a001ed21b869300bcfc4fec
 Description: Webinterface for Dose3D
 

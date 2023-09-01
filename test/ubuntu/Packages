@@ -1,0 +1,40 @@
+Package: g4rt
+Version: 0.0.1
+Architecture: amd64
+Maintainer: madej
+Installed-Size: 67968
+Filename: ./g4rt_0.0.1_amd64.deb
+Size: 5427328
+MD5sum: 699bb53641a90e2da4996b03d5bb4ba1
+SHA1: 46533a33e7422bdf3e720592c4a2d5876a3e8615
+SHA256: 80ca5aae5ba1907ef805ba22cadace2f6004a3f6b4bc57ffc1d59b5bdd6f8aa3
+Section: devel
+Priority: optional
+Description: G4rt built using CMake
+
+Package: g4rt
+Version: 0.0.2
+Architecture: amd64
+Maintainer: madej
+Installed-Size: 67968
+Filename: ./g4rt_0.0.2_amd64.deb
+Size: 5427216
+MD5sum: 541f0a1cbdd812046fddafe2815cf7b1
+SHA1: 5c29d9ae07c84b30013dd0f2cfe3c5ae8d488148
+SHA256: d96f40877cbe216c133938f81161b130abedfd95eda86966d06c8a90d3debe18
+Section: devel
+Priority: optional
+Description: G4rt built using CMake
+
+Package: g4rt-webui
+Version: 0.0.2
+Architecture: all
+Maintainer: Michal Niedzwiecki
+Depends: g4rt, postgresql
+Filename: ./g4rt-webui_0.0.2.deb
+Size: 15665112
+MD5sum: 02ee77e9bc4b3aa711aa1f9b62e547e2
+SHA1: 0c45d2bfc70b60a917c73f761c6124544040c4e8
+SHA256: 1f7a2ab64bda93aa6542fb119adc3cc976d4c5e7fd7afb28cf0639947ce60cab
+Description: Webinterface for Dose3D
+

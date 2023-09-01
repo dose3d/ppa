@@ -32,9 +32,9 @@ Architecture: all
 Maintainer: Michal Niedzwiecki
 Depends: g4rt, postgresql
 Filename: ./g4rt-webui_0.0.2.deb
-Size: 15665112
-MD5sum: 02ee77e9bc4b3aa711aa1f9b62e547e2
-SHA1: 0c45d2bfc70b60a917c73f761c6124544040c4e8
-SHA256: 1f7a2ab64bda93aa6542fb119adc3cc976d4c5e7fd7afb28cf0639947ce60cab
+Size: 15665164
+MD5sum: 2233f551d69a13b15e3981828ed55e3c
+SHA1: 168839716110b5aa9a2dd4a78da384243870c47a
+SHA256: 47bd08b12fab01c38af350b8a43d1048d84038d785a3fc6c4c3f43e06cbc67fd
 Description: Webinterface for Dose3D
 

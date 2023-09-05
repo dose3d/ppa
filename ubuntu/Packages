@@ -1,32 +1,4 @@
 Package: g4rt
-Version: 0.0.1
-Architecture: amd64
-Maintainer: madej
-Installed-Size: 67968
-Filename: ./g4rt_0.0.1_amd64.deb
-Size: 5427328
-MD5sum: 699bb53641a90e2da4996b03d5bb4ba1
-SHA1: 46533a33e7422bdf3e720592c4a2d5876a3e8615
-SHA256: 80ca5aae5ba1907ef805ba22cadace2f6004a3f6b4bc57ffc1d59b5bdd6f8aa3
-Section: devel
-Priority: optional
-Description: G4rt built using CMake
-
-Package: g4rt
-Version: 0.0.2
-Architecture: amd64
-Maintainer: madej
-Installed-Size: 67968
-Filename: ./g4rt_0.0.2_amd64.deb
-Size: 5427216
-MD5sum: 541f0a1cbdd812046fddafe2815cf7b1
-SHA1: 5c29d9ae07c84b30013dd0f2cfe3c5ae8d488148
-SHA256: d96f40877cbe216c133938f81161b130abedfd95eda86966d06c8a90d3debe18
-Section: devel
-Priority: optional
-Description: G4rt built using CMake
-
-Package: g4rt
 Version: 0.0.3
 Architecture: amd64
 Maintainer: madej
@@ -36,6 +8,20 @@ Size: 5427216
 MD5sum: 5eeb70af5c56f5cb8068441cd84a7562
 SHA1: 17f3d17793053fb5aaac097867fa4f60a30a48d1
 SHA256: 40c99a9734fd7534ac976a318c7205974575365a0a1e5a00c2c19f6f16397f67
+Section: devel
+Priority: optional
+Description: G4rt built using CMake
+
+Package: g4rt
+Version: 0.0.4
+Architecture: amd64
+Maintainer: madej
+Installed-Size: 67968
+Filename: ./g4rt_0.0.4_amd64.deb
+Size: 5427230
+MD5sum: 0dd03117ebc4010a0d90e2678d339fd3
+SHA1: 15f6bc006304fcecbc376b419cbc907d2691553b
+SHA256: beef37059afde075cba18c4f2b2dff85175208a9ee9c3cf865bc0d6c04ab2c79
 Section: devel
 Priority: optional
 Description: G4rt built using CMake

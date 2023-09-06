@@ -23,7 +23,7 @@ How-To: [Installing custom WSL distribution with Geant4 and Anaconda](https://gi
 
 ```
 curl -s --compressed "https://dose3d.github.io/ppa/ubuntu/KEY.gpg" | gpg --dearmor | sudo tee /etc/apt/trusted.gpg.d/g4rt.gpg >/dev/null
-sudo curl -s --compressed -o /etc/apt/sources.list.d/g4rt.list "https://dose3d.github.io/ppa/ubuntu/g4rt.list"
+sudo curl -s --compressed -o /etc/apt/sources.list.d/g4rt.list "https://dose3d.github.io/ppa/g4rt.list"
 ```
 ### Update the package lists on your Linux system:
 ```

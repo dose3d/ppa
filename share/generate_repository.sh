@@ -1,4 +1,6 @@
-cd ubuntu
+#!/bin/bash
+
+cd ../ubuntu
 dpkg-scanpackages --multiversion . > Packages
 gzip -k -f Packages
 

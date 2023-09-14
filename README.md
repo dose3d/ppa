@@ -20,6 +20,9 @@ WSL image installation instructions:
 [Installing custom WSL distribution](share/wsl-ubuntu-22.04.md)
 
 ## Packages installation
+### IMPORTANT: 
+You have to activate dedicated conda environment first!
+
 ### Import repo and siging key:
 NOTE: in above mentioned WSL distribution is already done!
 ```

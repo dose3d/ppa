@@ -10,18 +10,23 @@ Assumed to be installed in the system:
 * Miniconda, [https://docs.conda.io](https://docs.conda.io/en/latest/miniconda.html)
 * Geant4, [https://geant4.web.cern.ch](https://geant4.web.cern.ch/)
 
-NOTE: Once the Geant4 installation require the ROOT ([https://root.cern](https://root.cern/)), the latter can be installed with `conda`, see [https://anaconda.org/conda-forge/root](https://anaconda.org/conda-forge/root/). After all, this project requirements file can be utilized to setup the environment on top of which the Geant4 installation can be performed: [conda_env.yml](/share/conda_env.yml)
-
 ### Customized WSL Ubuntu distribution
-The WSL Ubuntu distribution is available with all prerequisities and this ppa repositories already installed!  
+The WSL Ubuntu distribution is available with all prerequisities already installed!  
 Get it from: [https://figshare.com/geant4-rt-simulation-platform](https://figshare.com/s/7484a32327c158599bc7)
+
 
 WSL image installation instructions:  
 [Installing custom WSL distribution](share/wsl-ubuntu-22.04.md)
 
+What you need to do is the conda env creation (the name have to be exactly `g4rt`):
+```
+conda create --name g4rt --file share/conda_env.yml
+conda env create --name g4rt --file shareconda_env.yml
+```
+
 ## Packages installation
 ### IMPORTANT: 
-You have to activate dedicated conda environment first!
+You have to activate the `g4rt` conda environment first!
 
 ### Import repo and siging key:
 NOTE: in above mentioned WSL distribution is already done!
@@ -37,6 +42,9 @@ sudo apt update
 sudo apt install g4rt g4rt-webui
 ```
 Note: Once the packages are already installed, above command will try to update them to latest version.
+
+### Installing issues
+See: [share/install_issues.md](share/install_issues.md)
 
 
 ### Authors:

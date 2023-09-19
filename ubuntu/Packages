@@ -64,3 +64,15 @@ SHA1: 19193b9e7f087274a8274565a55e5d4bf376fa8e
 SHA256: 1cecf6d31f9295f64cb8d62f86580b9cd8428f8582a9139473fd0b2141b25b6a
 Description: Webinterface for Dose3D
 
+Package: g4rt-webui
+Version: 0.0.6
+Architecture: all
+Maintainer: Michal Niedzwiecki
+Depends: g4rt, postgresql, libpq-dev
+Filename: ./g4rt-webui_0.0.6.deb
+Size: 15665794
+MD5sum: 9fb60116e2f1d87eff2284e83a44db08
+SHA1: 8ad237baa3e884188ea69d24ac866f88c9d18a98
+SHA256: 3b8153f1aef8498d717b8cc5ad861a730f0aaf58a42b0ded73bf5838199c9401
+Description: Webinterface for Dose3D
+

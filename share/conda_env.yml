@@ -9,6 +9,10 @@ channels:
   - conda-forge
 dependencies:
   - python=3.11.3
+  - traitlets=5.9.0
+  - jupyter_server=1.23.6
+  - jupyter-server-proxy=3.2.2
+  - jupyter_http_over_ws=0.0.8
   - root=6.28.0
   - xerces-c=3.2.4
   - pybind11=2.10.4

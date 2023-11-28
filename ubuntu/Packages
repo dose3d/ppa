@@ -40,6 +40,20 @@ Section: devel
 Priority: optional
 Description: G4rt built using CMake
 
+Package: g4rt
+Version: 0.0.6
+Architecture: amd64
+Maintainer: madej
+Installed-Size: 68044
+Filename: ./g4rt_0.0.6_amd64.deb
+Size: 5459260
+MD5sum: 3023b00e63921a43a50ef3df52f3277c
+SHA1: ab0eb010267862eea704b7314969589cafdefe0a
+SHA256: 748f7b94aaa42a85ae089e11b293c090916086ec77efeba7cba843e9c9fd74ef
+Section: devel
+Priority: optional
+Description: G4rt built using CMake
+
 Package: g4rt-webui
 Version: 0.0.2
 Architecture: all
